@@ -11,3 +11,4 @@ launch
 
 Doc MyBinder: https://mybinder.readthedocs.io/en/latest/introduction.html
 
+We strongly advise to use SSH clone on Windows (you need then to generate a key with gitbash) > avoid password issue with UX (bug).
