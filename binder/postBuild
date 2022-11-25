@@ -22,6 +22,7 @@
 
 pip install pyspark
 pip install pandas
+pip install matplotlib
 
 # VERSION=$(python -c "exec(open('python/pyspark/version.py').read()); print(__version__)")
 # TAG=$(git describe --tags --exact-match 2>/dev/null)
